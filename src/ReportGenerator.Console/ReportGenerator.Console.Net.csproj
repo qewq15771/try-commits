@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <ProjectGuid>{19A59768-9410-440D-A857-A1B5D44787B8}</ProjectGuid>
+    <OutputType>Exe</OutputType>
+    <RootNamespace>Palmmedia.ReportGenerator</RootNamespace>
+    <AssemblyName>ReportGenerator</AssemblyName>
+    <TargetFramework>net47</TargetFramework>
+    <AssemblyTitle>ReportGenerator.Console</AssemblyTitle>
+    <Product>ReportGenerator.Console</Product>
+    <Copyright>Copyright © 2022</Copyright>
+    <AssemblyVersion>5.4.4.0</AssemblyVersion>
+    <FileVersion>5.4.4.0</FileVersion>
+    <OutputPath>bin\$(Configuration)\</OutputPath>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Palmmedia.ReportGenerator.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ProgramIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ReportGenerator.Core\ReportGenerator.Core.csproj" />
+    <ProjectReference Include="..\ReportGenerator.MSBuild\ReportGenerator.MSBuild.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="..\..\LICENSE.txt">
+      <Link>LICENSE.txt</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="..\Readme.txt">
+      <Link>Readme.txt</Link>
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="ProgramIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Update="Microsoft.SourceLink.GitHub" Version="8.0.0" />
+  </ItemGroup>
+</Project>

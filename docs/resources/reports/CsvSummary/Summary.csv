@@ -1,0 +1,18 @@
+Summary
+Generated on:;09.02.2025 - 18:57:00
+Parser:;OpenCover
+Assemblies:;1
+Classes:;4
+Files:;5
+Line coverage:;69.4%
+Covered lines:;75
+Uncovered lines:;33
+Coverable lines:;108
+Total lines:;260
+
+Sample;69.4%
+
+Sample.PartialClass;54.5%
+Test.Program;100%
+Test.TestClass;72.7%
+Test.TestClass2;63.1%

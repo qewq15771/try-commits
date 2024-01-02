@@ -54,3 +54,4 @@ namespace Palmmedia.ReportGenerator.Core.Logging
         public static ILogger GetLogger(Type type) => innerFactory.GetLogger(type);
     }
 }
+Add tests - updating docs

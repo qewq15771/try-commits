@@ -16,3 +16,4 @@ namespace Palmmedia.ReportGenerator.Core.CodeAnalysis
         RiskHotspotAnalysisResult PerformRiskHotspotAnalysis(IEnumerable<Assembly> assemblies);
     }
 }
+Change tests - improving security

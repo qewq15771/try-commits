@@ -44,3 +44,4 @@ namespace Test
         public string AutoProperty { get; set; }
     }
 }
+Change tests - fixing a bug

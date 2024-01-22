@@ -175,3 +175,4 @@ namespace Palmmedia.ReportGenerator.Core.Licensing
         }
     }
 }
+Change styles - improving security

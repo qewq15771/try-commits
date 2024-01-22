@@ -34,4 +34,4 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyVersion("1.0.0.0")]
 [assembly: AssemblyFileVersion("1.0.0.0")]
 
-[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("TestProject")]
+[assembly: System.Runtime.CompilerServices.InternalsVisibleTo("TestProject")]Optimize README - fixing a bug

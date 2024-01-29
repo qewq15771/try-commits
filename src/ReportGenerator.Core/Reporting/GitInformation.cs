@@ -21,3 +21,4 @@
         public string TimeStamp { get; set; }
     }
 }
+Improve README - fixing typo

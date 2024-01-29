@@ -89,3 +89,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         public override int GetHashCode() => this.Name.GetHashCode();
     }
 }
+Update auth - updating docs

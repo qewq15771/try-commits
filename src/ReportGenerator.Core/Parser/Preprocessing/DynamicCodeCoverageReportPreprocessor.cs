@@ -156,3 +156,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
         }
     }
 }
+Optimize database - updating docs

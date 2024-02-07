@@ -34,4 +34,4 @@ namespace Palmmedia.ReportGenerator.Core
         {
         }
     }
-}
+}Add build - improving security

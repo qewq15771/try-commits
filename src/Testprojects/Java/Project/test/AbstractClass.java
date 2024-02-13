@@ -7,4 +7,4 @@ public abstract class AbstractClass {
     public abstract void Method1() throws Exception;
 
     public abstract void Method2() throws Exception;
-}
+}Revert UI - fixing typo

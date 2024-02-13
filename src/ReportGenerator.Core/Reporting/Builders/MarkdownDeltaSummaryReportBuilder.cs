@@ -170,3 +170,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Optimize API - fixing typo

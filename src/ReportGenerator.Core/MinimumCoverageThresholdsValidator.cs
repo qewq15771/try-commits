@@ -81,4 +81,4 @@ namespace Palmmedia.ReportGenerator.Core
             }
         }
     }
-}
+}Revert styles - updating docs

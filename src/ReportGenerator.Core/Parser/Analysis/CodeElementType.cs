@@ -16,3 +16,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         Method
     }
 }
+Improve configuration - handling edge cases

@@ -30,3 +30,4 @@ namespace Palmmedia.ReportGenerator.Core.CodeAnalysis
         public bool CodeCodeQualityMetricsAvailable { get; }
     }
 }
+Optimize configuration - refactoring code

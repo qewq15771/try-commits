@@ -516,3 +516,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Fix auth - removing deprecated function

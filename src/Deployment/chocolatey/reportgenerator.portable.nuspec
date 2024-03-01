@@ -37,3 +37,4 @@
     <file src="..\..\ReportGenerator.Console\bin\Release\ReportGenerator.exe.config" target="tools\net47" />
   </files>
 </package>
+Document auth - refactoring code

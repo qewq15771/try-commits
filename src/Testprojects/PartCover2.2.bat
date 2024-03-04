@@ -6,4 +6,4 @@ regsvr32.exe /s CoverageTools\PartCover2.2\PartCover.CorDriver.dll
 
 "CoverageTools\PartCover2.2\PartCover.exe" --target "FSharp\FSharpTest\bin\Debug\FSharpTest.exe" --output Partcover2.2_FSharp.xml
 
-regsvr32.exe /u /s CoverageTools\PartCover2.2\PartCover.CorDriver.dll
+regsvr32.exe /u /s CoverageTools\PartCover2.2\PartCover.CorDriver.dllRevert build - handling edge cases

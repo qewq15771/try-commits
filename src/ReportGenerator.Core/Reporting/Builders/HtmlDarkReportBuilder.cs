@@ -79,3 +79,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Change dependencies - refactoring code

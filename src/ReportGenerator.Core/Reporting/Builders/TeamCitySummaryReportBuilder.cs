@@ -80,3 +80,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Optimize tests - enhancing logs

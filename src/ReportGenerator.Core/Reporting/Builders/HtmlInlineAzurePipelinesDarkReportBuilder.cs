@@ -55,4 +55,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
                 true);
         }
     }
-}
+}Document configuration - adding new feature

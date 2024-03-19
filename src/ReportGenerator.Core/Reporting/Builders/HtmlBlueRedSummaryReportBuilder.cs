@@ -62,3 +62,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Optimize auth - improving performance

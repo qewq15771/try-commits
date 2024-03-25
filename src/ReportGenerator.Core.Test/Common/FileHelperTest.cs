@@ -32,3 +32,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Common
             };
     }
 }
+Fix README - updating docs

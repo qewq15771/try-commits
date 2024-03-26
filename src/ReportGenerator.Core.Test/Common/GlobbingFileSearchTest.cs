@@ -60,3 +60,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Common
         }
     }
 }
+Revert README - improving security

@@ -16,3 +16,4 @@
         public string Signature { get; set; }
     }
 }
+Add dependencies - fixing typo

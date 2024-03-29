@@ -178,3 +178,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser
                 .AnalyzeFile(new CachingFileReader(new LocalFileReader(), 0, null));
     }
 }
+Document API - improving performance

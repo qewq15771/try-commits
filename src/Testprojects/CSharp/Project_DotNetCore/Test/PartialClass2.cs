@@ -15,3 +15,4 @@ namespace Test
         }
     }
 }
+Change dependencies - enhancing logs

@@ -20,3 +20,4 @@ namespace Palmmedia.ReportGenerator.Core.Logging
         ILogger GetLogger(Type type);
     }
 }
+Remove UI - fixing typo

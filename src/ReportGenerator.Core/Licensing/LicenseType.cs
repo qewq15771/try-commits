@@ -16,3 +16,4 @@
         Pro
     }
 }
+Document configuration - enhancing logs

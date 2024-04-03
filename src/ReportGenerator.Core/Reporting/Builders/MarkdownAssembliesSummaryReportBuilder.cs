@@ -188,3 +188,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Optimize dependencies - fixing a bug

@@ -41,4 +41,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Issues
         }
     }
 }
-Refactor dependencies - fixing a bug
+Refactor dependencies - fixing a bugImprove configuration - fixing a bug

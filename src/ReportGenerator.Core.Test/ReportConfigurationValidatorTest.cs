@@ -254,4 +254,4 @@ namespace Palmmedia.ReportGenerator.Core.Test
             Assert.False(sut.Validate(configuration));
         }
     }
-}Revert configuration - updating docs
+}Revert configuration - updating docsRemove styles - refactoring code

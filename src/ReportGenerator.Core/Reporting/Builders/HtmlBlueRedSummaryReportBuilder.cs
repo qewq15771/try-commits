@@ -62,4 +62,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
-Optimize auth - improving performanceOptimize styles - fixing typo
+Optimize auth - improving performanceOptimize styles - fixing typoRevert build - improving performance

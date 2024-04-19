@@ -51,4 +51,4 @@ namespace Test
             throw new NotImplementedException();
         }
     }
-}
+}Fix API - handling edge cases

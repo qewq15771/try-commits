@@ -56,3 +56,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Refactor auth - adding new feature

@@ -51,3 +51,4 @@ namespace Palmmedia.ReportGenerator.Core.CodeAnalysis
         public int FileIndex { get; }
     }
 }
+Add configuration - fixing a bug

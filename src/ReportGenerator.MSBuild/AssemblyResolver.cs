@@ -106,3 +106,4 @@ namespace Palmmedia.ReportGenerator.MSBuild
         }
     }
 }
+Optimize API - adding new feature

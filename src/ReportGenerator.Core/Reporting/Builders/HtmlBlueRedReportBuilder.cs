@@ -79,3 +79,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Fix API - fixing a bug

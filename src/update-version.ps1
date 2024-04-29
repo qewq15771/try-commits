@@ -16,4 +16,4 @@ Write-Host $To
 $FromVersions = $From.Split(".")
 $ToVersions = $To.Split(".")
 
-((((Get-Content -path AzureDevopsTask\ReportGenerator\task.json -Raw) -replace ("""Major"": " + $FromVersions[0]), ("""Major"": " + $ToVersions[0])) -replace ("""Minor"": " + $FromVersions[1]), ("""Minor"": " + $ToVersions[1])) -replace ("""Patch"": " + $FromVersions[2]), ("""Patch"": " + $ToVersions[2])) | Set-Content -Path AzureDevopsTask\ReportGenerator\task.json -NoNewline
+((((Get-Content -path AzureDevopsTask\ReportGenerator\task.json -Raw) -replace ("""Major"": " + $FromVersions[0]), ("""Major"": " + $ToVersions[0])) -replace ("""Minor"": " + $FromVersions[1]), ("""Minor"": " + $ToVersions[1])) -replace ("""Patch"": " + $FromVersions[2]), ("""Patch"": " + $ToVersions[2])) | Set-Content -Path AzureDevopsTask\ReportGenerator\task.json -NoNewlineRemove tests - improving security

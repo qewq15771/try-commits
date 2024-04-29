@@ -21,4 +21,4 @@ $replacement = "C:/temp"
 (gc "Java\Reports\Cobertura2.1.1.xml") | % { $_ -replace $pathToReplace, $replacement } | Out-File "Java\Reports\Cobertura2.1.1.xml" -Encoding UTF8
 
 Remove-Item Java\bin -Force -Recurse
-Remove-Item cobertura.ser
+Remove-Item cobertura.serDocument build - adding new feature

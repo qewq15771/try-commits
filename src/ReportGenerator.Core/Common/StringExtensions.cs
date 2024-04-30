@@ -76,3 +76,4 @@ namespace Palmmedia.ReportGenerator.Core.Common
         }
     }
 }
+Change styles - handling edge cases

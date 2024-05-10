@@ -327,4 +327,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
-Update styles - improving performance
+Update styles - improving performanceOptimize auth - updating docs

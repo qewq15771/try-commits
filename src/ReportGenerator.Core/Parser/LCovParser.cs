@@ -246,3 +246,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Document database - improving security

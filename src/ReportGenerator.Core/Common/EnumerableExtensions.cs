@@ -210,3 +210,4 @@ namespace Palmmedia.ReportGenerator.Core.Common
 }
 
 #endif
+Add configuration - removing deprecated function

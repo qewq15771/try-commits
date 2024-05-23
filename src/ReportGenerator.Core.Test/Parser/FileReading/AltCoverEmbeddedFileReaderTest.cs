@@ -30,3 +30,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.FileReading
         }
     }
 }
+Document build - removing deprecated function

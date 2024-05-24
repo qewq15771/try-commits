@@ -126,3 +126,4 @@ namespace Palmmedia.ReportGenerator.Core
         }
     }
 }
+Fix API - adding new feature

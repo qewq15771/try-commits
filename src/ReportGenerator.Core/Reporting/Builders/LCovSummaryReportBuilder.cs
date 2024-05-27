@@ -180,3 +180,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Remove dependencies - handling edge cases

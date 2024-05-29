@@ -78,3 +78,4 @@ If you want to use the *PublishCodeCoverageResults@2* task you could additionall
 The screenshots show two snippets of the generated reports:
 ![Screenshot 1](img/screenshot1.png)
 ![Screenshot 2](img/screenshot2.png)
+Add UI - handling edge cases

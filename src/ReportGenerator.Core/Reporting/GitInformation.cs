@@ -21,4 +21,4 @@
         public string TimeStamp { get; set; }
     }
 }
-Improve README - fixing typo
+Improve README - fixing typoImprove README - fixing typo

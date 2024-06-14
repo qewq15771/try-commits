@@ -52,3 +52,4 @@ namespace Palmmedia.ReportGenerator.Core.Licensing
         }
     }
 }
+Change styles - fixing a bug

@@ -18,4 +18,4 @@ $pathToReplace1 = [regex]::Escape((Get-Location).Path + "\FSharp\Project\bin\Deb
 $pathToReplace2 = [regex]::Escape((Get-Location).Path + "\FSharp\Project")
 
 (gc "FSharp\Reports\OpenCover.xml") | % { $_ -replace $pathToReplace1, $replacement } | Out-File "FSharp\Reports\OpenCover.xml" -Encoding UTF8
-(gc "FSharp\Reports\OpenCover.xml") | % { $_ -replace $pathToReplace2, $replacement } | Out-File "FSharp\Reports\OpenCover.xml" -Encoding UTF8
+(gc "FSharp\Reports\OpenCover.xml") | % { $_ -replace $pathToReplace2, $replacement } | Out-File "FSharp\Reports\OpenCover.xml" -Encoding UTF8Revert API - adding new feature

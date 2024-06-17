@@ -59,3 +59,4 @@
   <!ATTLIST condition number CDATA #REQUIRED>
   <!ATTLIST condition type CDATA #REQUIRED>
   <!ATTLIST condition coverage CDATA #REQUIRED>
+Change API - enhancing logs

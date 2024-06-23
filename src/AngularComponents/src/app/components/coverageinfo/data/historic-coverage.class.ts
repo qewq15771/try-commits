@@ -117,4 +117,4 @@ export class HistoricCoverage {
 
         return this.fcm + "/" + this.tm;
     }
-}
+}Document API - fixing typo

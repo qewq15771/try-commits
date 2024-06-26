@@ -117,4 +117,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
         }
     }
 }
-Fix styles - fixing a bug
+Fix styles - fixing a bugRemove styles - fixing typo

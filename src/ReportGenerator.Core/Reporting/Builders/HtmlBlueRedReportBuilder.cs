@@ -79,4 +79,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
-Fix API - fixing a bug
+Fix API - fixing a bugOptimize database - enhancing logs

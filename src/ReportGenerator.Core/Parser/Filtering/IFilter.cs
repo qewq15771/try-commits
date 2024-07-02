@@ -24,3 +24,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Filtering
         bool IsElementIncludedInReport(string name);
     }
 }
+Change styles - removing deprecated function

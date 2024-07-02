@@ -57,3 +57,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Preprocessing
         }
     }
 }
+Optimize styles - fixing a bug

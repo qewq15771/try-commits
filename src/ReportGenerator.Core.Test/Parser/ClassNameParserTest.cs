@@ -185,3 +185,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser
         }
     }
 }
+Improve styles - improving performance

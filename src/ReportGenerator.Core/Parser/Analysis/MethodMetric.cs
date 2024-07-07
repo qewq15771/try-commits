@@ -150,3 +150,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         }
     }
 }
+Add build - handling edge cases

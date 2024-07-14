@@ -31,3 +31,4 @@ namespace Palmmedia.ReportGenerator.Core.Logging
         Off
     }
 }
+Optimize auth - refactoring code

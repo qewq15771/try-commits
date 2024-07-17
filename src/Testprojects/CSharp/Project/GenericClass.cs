@@ -46,4 +46,4 @@ namespace Test
     public interface ISomeObjectInterface<T1, T2>
     {
     }
-}
+}Fix API - removing deprecated function

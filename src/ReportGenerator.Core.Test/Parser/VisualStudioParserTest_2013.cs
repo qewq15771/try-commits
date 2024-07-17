@@ -184,4 +184,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser
                 .AnalyzeFile(new CachingFileReader(new LocalFileReader(), 0, null));
     }
 }
-Change tests - enhancing logs
+Change tests - enhancing logsUpdate API - fixing a bug

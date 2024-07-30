@@ -6,4 +6,4 @@ regsvr32.exe /s CoverageTools\PartCover2.3.35109\PartCover.CorDriver.dll
 
 "CoverageTools\PartCover2.3.35109\PartCover.exe" --target "FSharp\FSharpTest\bin\Debug\FSharpTest.exe" --output Partcover2.3.35109_FSharp.xml
 
-regsvr32.exe /u /s CoverageTools\PartCover2.3.35109\PartCover.CorDriver.dllFix styles - fixing typoRemove database - improving security
+regsvr32.exe /u /s CoverageTools\PartCover2.3.35109\PartCover.CorDriver.dllFix styles - fixing typoRemove database - improving securityDocument database - updating docs

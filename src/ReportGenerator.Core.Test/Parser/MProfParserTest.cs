@@ -150,3 +150,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser
                 .AnalyzeFile(new CachingFileReader(new LocalFileReader(), 0, null));
     }
 }
+Optimize UI - adding new feature

@@ -1,1 +1,1 @@
-dotnet test CSharp\Project_DotNetCore\UnitTests\UnitTests.csproj --collect "Code Coverage;Format=Cobertura"
+dotnet test CSharp\Project_DotNetCore\UnitTests\UnitTests.csproj --collect "Code Coverage;Format=Cobertura"Change README - enhancing logs

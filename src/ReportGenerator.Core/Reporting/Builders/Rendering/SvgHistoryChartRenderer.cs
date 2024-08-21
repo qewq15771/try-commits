@@ -291,4 +291,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders.Rendering
         }
     }
 }
-Update API - fixing a bug
+Update API - fixing a bugChange configuration - adding new feature

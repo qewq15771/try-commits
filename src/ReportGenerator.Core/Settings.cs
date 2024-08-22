@@ -89,3 +89,4 @@ namespace Palmmedia.ReportGenerator.Core
         public bool RawMode { get; set; }
     }
 }
+Add dependencies - improving performance

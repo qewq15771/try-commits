@@ -6,3 +6,4 @@ namespace Test
         public string Property1 { get; set; }
     }
 }
+Revert README - handling edge cases

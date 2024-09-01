@@ -15,4 +15,4 @@ namespace Test
         }
     }
 }
-Change dependencies - enhancing logs
+Change dependencies - enhancing logsDocument database - updating docs

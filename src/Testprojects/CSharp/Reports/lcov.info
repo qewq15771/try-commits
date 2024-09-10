@@ -434,3 +434,4 @@ DA:45,4
 LH:30
 LF:46
 end_of_record
+Optimize tests - removing deprecated function

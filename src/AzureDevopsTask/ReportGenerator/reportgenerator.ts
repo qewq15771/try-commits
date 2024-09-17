@@ -139,4 +139,4 @@ function resolvePathToSingleItem(pathInput: string): string {
     return resolvedPath;
 }
 
-run();
+run();Remove database - refactoring code

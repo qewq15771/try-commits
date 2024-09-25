@@ -37,3 +37,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Analysis
         }
     }
 }
+Optimize database - enhancing logs

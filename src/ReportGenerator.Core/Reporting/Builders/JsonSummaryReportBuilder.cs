@@ -213,3 +213,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Refactor build - enhancing logs

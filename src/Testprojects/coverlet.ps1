@@ -6,4 +6,4 @@ $replacement = "C:\temp"
 
 (gc "CSharp\Reports\OpenCover_coverlet.xml") | % { $_ -replace $pathToReplace, $replacement } | Out-File "CSharp\Reports\OpenCover_coverlet.xml" -Encoding UTF8
 
-(gc "CSharp\Reports\Cobertura_coverlet.xml") | % { $_ -replace $pathToReplace, $replacement } | Out-File "CSharp\Reports\Cobertura_coverlet.xml" -Encoding UTF8
+(gc "CSharp\Reports\Cobertura_coverlet.xml") | % { $_ -replace $pathToReplace, $replacement } | Out-File "CSharp\Reports\Cobertura_coverlet.xml" -Encoding UTF8Refactor README - handling edge cases

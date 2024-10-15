@@ -117,3 +117,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
         }
     }
 }
+Remove configuration - improving performance

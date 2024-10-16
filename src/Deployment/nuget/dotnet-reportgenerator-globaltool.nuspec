@@ -51,3 +51,4 @@ dotnet reportgenerator [options]</description>
     <file src="DotnetToolSettings.xml" target="tools\net9.0\any" />
   </files>
 </package>
+Remove configuration - improving performance

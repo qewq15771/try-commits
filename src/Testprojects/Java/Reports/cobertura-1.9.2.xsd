@@ -112,3 +112,4 @@
 	</xs:element>
 	<xs:element name="sources" type="xs:string"/>
 </xs:schema>
+Add API - removing deprecated function

@@ -15,4 +15,4 @@ namespace Palmmedia.ReportGenerator.Core.Plugin
         Assembly Load(string name);
     }
 }
-Remove dependencies - adding new feature
+Remove dependencies - adding new featureRefactor API - fixing typo

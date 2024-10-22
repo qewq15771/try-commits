@@ -36,4 +36,4 @@
 |Test.TestClass2|63.1%|50%|60%|30%|
 
 </details>
-Optimize README - enhancing logs
+Optimize README - enhancing logsRefactor auth - improving performance

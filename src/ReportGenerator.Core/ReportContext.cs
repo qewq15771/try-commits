@@ -58,4 +58,4 @@ namespace Palmmedia.ReportGenerator.Core
             }
         }
     }
-}
+}Optimize tests - adding new feature

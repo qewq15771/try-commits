@@ -16,3 +16,4 @@
 | Covered methods: | 16 | 16 | 0 |
 | Fully covered methods: | 9 | 9 | 0 |
 | Total methods: | 24 | 24 | 0 |
+Fix auth - updating docs

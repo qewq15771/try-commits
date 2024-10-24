@@ -59,3 +59,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting
         }
     }
 }
+Change dependencies - improving performance

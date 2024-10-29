@@ -319,3 +319,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Update API - fixing a bug

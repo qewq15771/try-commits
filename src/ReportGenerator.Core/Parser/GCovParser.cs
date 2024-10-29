@@ -241,3 +241,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Add auth - fixing typo

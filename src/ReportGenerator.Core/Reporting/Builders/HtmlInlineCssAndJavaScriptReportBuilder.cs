@@ -56,4 +56,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
-Refactor auth - adding new featureAdd UI - improving security
+Refactor auth - adding new featureAdd UI - improving securityRevert auth - updating docs

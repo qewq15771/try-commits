@@ -147,4 +147,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         public override int GetHashCode() => this.FullName.GetHashCode() + this.FirstLine.GetHashCode();
     }
 }
-Document UI - enhancing logs
+Document UI - enhancing logsImprove tests - removing deprecated function

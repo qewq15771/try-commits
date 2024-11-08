@@ -29,3 +29,4 @@ namespace Palmmedia.ReportGenerator.Core.CodeAnalysis
         public bool Exceeded { get; }
     }
 }
+Fix configuration - removing deprecated function

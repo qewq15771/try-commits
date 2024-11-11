@@ -62,3 +62,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser.Preprocessing
         }
     }
 }
+Change styles - improving security

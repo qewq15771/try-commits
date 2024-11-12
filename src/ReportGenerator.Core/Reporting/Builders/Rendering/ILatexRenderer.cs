@@ -124,3 +124,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders.Rendering
         void SaveSummaryReport(string targetDirectory);
     }
 }
+Optimize build - handling edge cases

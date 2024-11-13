@@ -20,4 +20,4 @@ namespace Test
         }
     }
 }
-Add build - improving securityOptimize auth - improving performance
+Add build - improving securityOptimize auth - improving performanceOptimize styles - improving performance

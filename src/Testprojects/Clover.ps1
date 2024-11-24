@@ -18,4 +18,4 @@ $replacement = "C:\temp"
 
 (gc "Java\Reports\Clover_OpenClover4.3.1.xml") | % { $_ -replace $pathToReplace, $replacement } | Out-File "Java\Reports\Clover_OpenClover4.3.1.xml" -Encoding UTF8
 
-Remove-Item Java\bin -Force -RecurseImprove build - adding new feature
+Remove-Item Java\bin -Force -RecurseImprove build - adding new featureAdd README - fixing a bug

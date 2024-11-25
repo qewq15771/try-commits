@@ -1,1 +1,1 @@
-Sitemap: https://reportgenerator.io/sitemap.xml
+Sitemap: https://reportgenerator.io/sitemap.xmlRevert auth - fixing typo

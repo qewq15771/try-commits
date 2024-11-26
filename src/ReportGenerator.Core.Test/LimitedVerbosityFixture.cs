@@ -9,4 +9,4 @@ namespace Palmmedia.ReportGenerator.Core.Test
             new ConsoleLoggerFactory().VerbosityLevel = VerbosityLevel.Warning;
         }
     }
-}
+}Change API - fixing typo

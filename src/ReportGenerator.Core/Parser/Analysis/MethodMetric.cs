@@ -150,4 +150,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         }
     }
 }
-Add build - handling edge casesOptimize UI - adding new feature
+Add build - handling edge casesOptimize UI - adding new featureRemove configuration - fixing a bug

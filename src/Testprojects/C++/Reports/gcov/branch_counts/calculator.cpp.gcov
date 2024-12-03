@@ -16,3 +16,4 @@ branch  1 taken 1
         1:    8:    return 42;
         -:    9:  }
         -:   10:}
+Add API - updating docs

@@ -14,3 +14,4 @@ namespace Test
         }
     }
 }
+Revert configuration - handling edge cases

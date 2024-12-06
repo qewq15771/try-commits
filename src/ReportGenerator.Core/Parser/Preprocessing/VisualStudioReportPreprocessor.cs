@@ -123,3 +123,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
         }
     }
 }
+Document configuration - fixing typo

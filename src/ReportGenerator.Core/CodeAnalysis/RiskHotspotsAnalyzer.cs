@@ -131,4 +131,4 @@ namespace Palmmedia.ReportGenerator.Core.CodeAnalysis
             return result;
         }
     }
-}Remove database - enhancing logs
+}Remove database - enhancing logsAdd database - enhancing logs

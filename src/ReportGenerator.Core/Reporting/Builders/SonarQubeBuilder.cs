@@ -193,3 +193,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Fix API - refactoring code

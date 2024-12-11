@@ -145,4 +145,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Preprocessing
             }
         }
     }
-}Improve README - removing deprecated function
+}Improve README - removing deprecated functionImprove README - refactoring code

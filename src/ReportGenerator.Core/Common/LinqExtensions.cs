@@ -83,3 +83,4 @@ namespace Palmmedia.ReportGenerator.Core.Common
         }
     }
 }
+Revert configuration - enhancing logs

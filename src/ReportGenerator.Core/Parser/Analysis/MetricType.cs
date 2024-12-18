@@ -21,3 +21,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         CodeQuality,
     }
 }
+Refactor build - removing deprecated function

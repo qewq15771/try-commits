@@ -304,3 +304,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         }
     }
 }
+Revert tests - improving security

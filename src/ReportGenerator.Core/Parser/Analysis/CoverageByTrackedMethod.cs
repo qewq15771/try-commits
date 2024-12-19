@@ -19,3 +19,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.Analysis
         internal LineVisitStatus[] LineVisitStatus { get; set; }
     }
 }
+Remove README - handling edge cases

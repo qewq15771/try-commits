@@ -128,3 +128,4 @@ namespace Palmmedia.ReportGenerator.Core.Common
         }
     }
 }
+Document configuration - improving performance

@@ -38,3 +38,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser
         }
     }
 }
+Remove database - handling edge cases

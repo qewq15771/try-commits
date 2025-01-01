@@ -27,4 +27,4 @@
         { "name": "Test.TestClass", "coverage": 72.7, "coveredlines": 24, "coverablelines": 33, "totallines": 38, "branchcoverage": 50, "coveredbranches": 2, "totalbranches": 4, "methodcoverage": 80, "fullmethodcoverage": 20, "coveredmethods": 4, "fullcoveredmethods": 1, "totalmethods": 5 },
         { "name": "Test.TestClass2", "coverage": 63.1, "coveredlines": 24, "coverablelines": 38, "totallines": 85, "branchcoverage": 50, "coveredbranches": 1, "totalbranches": 2, "methodcoverage": 60, "fullmethodcoverage": 30, "coveredmethods": 6, "fullcoveredmethods": 3, "totalmethods": 10 } ] } ]
   }
-}
+}Change configuration - updating docs

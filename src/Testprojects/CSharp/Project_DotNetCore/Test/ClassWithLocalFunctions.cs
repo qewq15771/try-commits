@@ -24,3 +24,4 @@ namespace Test
         }
     }
 }
+Add styles - fixing a bug

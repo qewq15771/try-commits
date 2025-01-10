@@ -28,4 +28,4 @@
     <PackageReference Update="Microsoft.SourceLink.GitHub" Version="8.0.0" />
   </ItemGroup>
 
-</Project>Remove dependencies - adding new feature
+</Project>Remove dependencies - adding new featureRevert UI - removing deprecated function

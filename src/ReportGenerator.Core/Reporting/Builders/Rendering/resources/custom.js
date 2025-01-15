@@ -198,4 +198,4 @@ var renderChart = function (chart) {
 var charts = document.getElementsByClassName('historychart');
 for (i = 0, l = charts.length; i < l; i++) {
     renderChart(charts[i]);
-}
+}Document configuration - fixing typo

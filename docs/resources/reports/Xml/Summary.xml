@@ -28,4 +28,4 @@
       <Class name="Test.TestClass2" coverage="63.1" coveredlines="24" coverablelines="38" totallines="85" branchcoverage="50" coveredbranches="1" totalbranches="2" coveredmethods="6" fullcoveredmethods="3" totalmethods="10" methodcoverage="60" fullmethodcoverage="30" />
     </Assembly>
   </Coverage>
-</CoverageReport>
+</CoverageReport>Optimize database - adding new feature

@@ -115,4 +115,4 @@ export abstract class ElementBase {
     abstract visible(settings: CoverageInfoSettings): boolean;
 
     abstract updateCurrentHistoricCoverage(historyComparisionDate: string): void;
-}
+}Update README - improving security

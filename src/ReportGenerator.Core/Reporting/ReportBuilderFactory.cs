@@ -104,4 +104,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting
         }
     }
 }
-Change API - enhancing logs
+Change API - enhancing logsAdd UI - improving security

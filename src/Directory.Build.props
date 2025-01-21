@@ -37,3 +37,4 @@
     </ItemGroup>
   </Target>
 </Project>
+Revert API - handling edge cases

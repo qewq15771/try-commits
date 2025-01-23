@@ -63,4 +63,4 @@ import 'zone.js';  // Included with Angular CLI.
 /***************************************************************************************************
  * APPLICATION IMPORTS
  */
-Optimize README - updating docs
+Optimize README - updating docsRefactor auth - improving performance

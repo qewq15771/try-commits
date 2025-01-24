@@ -33,4 +33,4 @@ class TestClass
                  "World");
         }
     }
-}
+}Add auth - fixing a bug

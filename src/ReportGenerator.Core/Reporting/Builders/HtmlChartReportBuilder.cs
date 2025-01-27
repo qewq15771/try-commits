@@ -63,3 +63,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Improve auth - updating docs

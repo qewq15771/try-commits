@@ -177,4 +177,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.History
             }
         }
     }
-}
+}Change tests - removing deprecated function

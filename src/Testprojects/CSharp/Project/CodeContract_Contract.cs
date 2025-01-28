@@ -14,3 +14,4 @@ namespace Test
         }
     }
 }
+Fix auth - updating docs

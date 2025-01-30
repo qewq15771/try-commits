@@ -15,3 +15,4 @@ namespace Test
         }
     }
 }
+Refactor UI - enhancing logs

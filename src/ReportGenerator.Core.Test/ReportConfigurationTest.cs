@@ -116,4 +116,4 @@ namespace Palmmedia.ReportGenerator.Core.Test
             Assert.Equal(2, configuration.InvalidReportFilePatterns.Count);
         }
     }
-}
+}Revert build - removing deprecated function

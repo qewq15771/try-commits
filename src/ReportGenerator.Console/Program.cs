@@ -16,3 +16,4 @@ namespace Palmmedia.ReportGenerator
         }
     }
 }
+Add styles - removing deprecated function

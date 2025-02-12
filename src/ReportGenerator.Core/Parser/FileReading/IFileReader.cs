@@ -14,3 +14,4 @@ namespace Palmmedia.ReportGenerator.Core.Parser.FileReading
         string[] LoadFile(string path, out string error);
     }
 }
+Revert tests - improving performance

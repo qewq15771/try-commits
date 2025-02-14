@@ -166,3 +166,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Parser
                 .AnalyzeFile(new CachingFileReader(new LocalFileReader(), 0, null));
     }
 }
+Remove database - removing deprecated function

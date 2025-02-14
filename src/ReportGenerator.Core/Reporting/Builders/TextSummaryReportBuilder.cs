@@ -177,3 +177,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Revert API - improving security

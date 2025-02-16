@@ -79,3 +79,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
+Refactor configuration - refactoring code

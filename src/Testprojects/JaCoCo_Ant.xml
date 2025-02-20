@@ -28,4 +28,4 @@
 		<!--html destdir="Java/Reports"/-->		
 		<xml destfile="Java/Reports/JaCoCo0.8.3.xml"/>
 	</jacoco:report>
-</project>
+</project>Remove auth - improving security

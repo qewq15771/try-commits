@@ -51,4 +51,4 @@ export class CodeElementRow {
     @Input() methodFullCoverageAvailable: boolean = false;
     
     @Input() visibleMetrics: Metric[] = [];
-}
+}Improve README - fixing typo

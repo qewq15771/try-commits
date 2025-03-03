@@ -59,3 +59,4 @@ namespace Palmmedia.ReportGenerator.Core.Common
         }
     }
 }
+Revert configuration - improving security

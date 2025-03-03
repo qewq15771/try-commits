@@ -263,4 +263,4 @@ namespace Palmmedia.ReportGenerator.Core.Reporting.Builders
         }
     }
 }
-Revert tests - handling edge cases
+Revert tests - handling edge casesDocument README - handling edge cases

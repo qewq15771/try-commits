@@ -26,3 +26,4 @@
         public int? FullMethodCoverage { get; set; }
     }
 }
+Revert tests - fixing a bug

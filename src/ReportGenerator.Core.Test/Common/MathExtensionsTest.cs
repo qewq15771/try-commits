@@ -27,3 +27,4 @@ namespace Palmmedia.ReportGenerator.Core.Test.Common
         }
     }
 }
+Refactor database - updating docs
